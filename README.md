@@ -29,7 +29,7 @@
 
 ## About The Project
 
-![SafeRoute AI Screenshot](https://i.imgur.com/example.png)
+![CitySakhi AI Screenshot](https://drive.google.com/file/d/1ZzlAVbSeO4VfIgLa04A5q_q2HKKyohHM/view?usp=drive_link)
 
 Navigating urban environments can be challenging, with safety being a primary concern for many, especially women. SafeRoute AI is a web-based mapping application designed to address this challenge. Instead of just finding the fastest route, it calculates the **safest** route by analyzing crowdsourced data on potential risks like poorly lit areas, harassment incidents, or overly crowded places.
 
@@ -151,7 +151,7 @@ This project was developed by a dedicated team of students.
 
 * **Harshita Jain** - [GitHub Profile](https://github.com/harshita25221)
 * **Millee Mittal** - [GitHub Profile](https://github.com/Millee-24)
-* **Ashima** - [GitHub Profile](https://github.com/ashima)
+* **Ashima** - [GitHub Profile](https://github.com/AshimaGosain)
 * **Arpit Makkar** - [GitHub Profile](https://github.com/ArpitMakkar12)
 
 *(Note: Please replace the placeholder GitHub profile links with the correct ones.)*
