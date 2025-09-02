@@ -29,8 +29,6 @@
 
 ## About The Project
 
-![CitySakhi AI Screenshot](https://drive.google.com/file/d/1ZzlAVbSeO4VfIgLa04A5q_q2HKKyohHM/view?usp=drive_link)
-
 Navigating urban environments can be challenging, with safety being a primary concern for many, especially women. SafeRoute AI is a web-based mapping application designed to address this challenge. Instead of just finding the fastest route, it calculates the **safest** route by analyzing crowdsourced data on potential risks like poorly lit areas, harassment incidents, or overly crowded places.
 
 This project leverages the power of the Google Maps Platform and Firebase to provide a real-time, data-driven, and intuitive user experience.
