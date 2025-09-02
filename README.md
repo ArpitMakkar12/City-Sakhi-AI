@@ -1,14 +1,16 @@
 <div align="center">
-  <h1 align="center">📍 City-Sakhi AI</h1>
+  <h1 align="center">📍 CitySakhi AI</h1>
   <p align="center">
     An intelligent, safety-aware navigation tool designed to enhance urban safety, especially for women.
     <br />
     <a href="#about-the-project"><strong>Explore the features »</strong></a>
     <br />
     <br />
-    <a href="https://arpitmakkar12.github.io/City-Sakhi-AI/">View Demo</a>
+    <a href="[https://arpitmakkar12.github.io/City-Sakhi-AI/]">View Demo</a>
     ·
-    <a href="https://github.com/ArpitMakkar12/City-Sakhi-AI/issues">Report Bug</a>
+    <a href="[https://youtu.be/zZGkUzhAMv0]">Watch the Video</a>
+    ·
+    <a href="[https://github.com/ArpitMakkar12/City-Sakhi-AI/issues]">Report Bug</a>
   </p>
 </div>
 
